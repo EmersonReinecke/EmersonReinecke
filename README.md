@@ -1,3 +1,14 @@
-### Olá me chamo Emerson Reinecke, sou formado em Analise e desenvolvimento de sistemas tenho experiencia com customer success e atualmente estou estudando Ciência de dados.
+### Hello I'm Emerson Reinecke
 
-#### Link do meu Linkedin: http://www.linkedin.com/in/emerson-reinecke/
+   
+Worked with programming languages/frameworks:
+ - Java
+ - JS
+ - JQUERY
+ - Python
+ - HTML
+ - CSS
+ - SQL
+ 
+
+#### inkedin: http://www.linkedin.com/in/emerson-reinecke/
