@@ -11,4 +11,4 @@ Worked with programming languages/frameworks:
  - SQL
  
 
-#### inkedin: http://www.linkedin.com/in/emerson-reinecke/
+#### Linkedin: http://www.linkedin.com/in/emerson-reinecke/
